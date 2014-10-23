@@ -1,0 +1,199 @@
+{
+  "MEDIOCRE": {
+    "2009": [
+      "NE", 
+      "NYJ", 
+      "MIA", 
+      "BUF", 
+      "CIN", 
+      "BAL", 
+      "PIT", 
+      "HOU", 
+      "TEN", 
+      "JAC", 
+      "DEN", 
+      "NYG", 
+      "CHI", 
+      "ATL", 
+      "CAR", 
+      "ARI", 
+      "SF"
+    ], 
+    "2013": [
+      "NYJ", 
+      "MIA", 
+      "BUF", 
+      "PIT", 
+      "BAL", 
+      "TEN", 
+      "SD", 
+      "PHI", 
+      "DAL", 
+      "NYG", 
+      "GB", 
+      "CHI", 
+      "DET", 
+      "ARI", 
+      "STL"
+    ], 
+
+    "2011": [
+      "NYJ", 
+      "MIA", 
+      "BUF", 
+      "CIN", 
+      "HOU", 
+      "TEN", 
+      "KC", 
+      "OAK", 
+      "SD", 
+      "DEN", 
+      "DAL", 
+      "PHI", 
+      "NYG", 
+      "CHI", 
+      "DET", 
+      "CAR", 
+      "ATL", 
+      "SEA", 
+      "ARI"
+    ], 
+    "2010": [
+      "MIA", 
+      "TEN", 
+      "HOU", 
+      "JAC", 
+      "IND", 
+      "OAK", 
+      "SD", 
+      "KC", 
+      "PHI", 
+      "NYG", 
+      "DAL", 
+      "WAS", 
+      "GB", 
+      "DET", 
+      "MIN", 
+      "TB", 
+      "SEA", 
+      "STL", 
+      "SF"
+    ], 
+    "2012": [
+      "NYJ", 
+      "MIA", 
+      "BUF", 
+      "CIN", 
+      "PIT", 
+      "BAL", 
+      "TEN", 
+      "SD", 
+      "DAL", 
+      "NYG", 
+      "WAS", 
+      "CHI", 
+      "MIN", 
+      "CAR", 
+      "NO", 
+      "TB", 
+      "STL"
+    ]
+  }, 
+  "GOOD": {
+    "2011": [
+      "NE", 
+      "BAL", 
+      "PIT", 
+      "GB", 
+      "NO", 
+      "SF"
+    ],
+    "2009": [
+      "IND", 
+      "SD", 
+      "DAL", 
+      "PHI", 
+      "MIN", 
+      "GB",
+      "NO"
+    ],
+    "2013": [
+      "NE", 
+      "CIN", 
+      "IND", 
+      "DEN", 
+      "KC", 
+      "CAR",
+      "NO",
+      "SEA",
+      "SF"
+    ], 
+    "2010": [
+      "NE", 
+      "NYJ", 
+      "PIT", 
+      "BAL", 
+      "CHI", 
+      "ATL", 
+      "NO"
+    ], 
+    "2012": [
+      "NE", 
+      "HOU", 
+      "IND", 
+      "DEN", 
+      "GB", 
+      "ATL", 
+      "SF", 
+      "SEA"
+    ]
+  }, 
+  "BAD": {
+    "2011": [
+      "CLE", 
+      "JAC", 
+      "IND", 
+      "WAS", 
+      "MIN", 
+      "TB", 
+      "STL"
+    ], 
+    "2013": [
+      "CLE", 
+      "JAC", 
+      "HOU", 
+      "OAK", 
+      "WAS", 
+      "MIN",
+      "ATL",
+      "TB"
+    ],
+    "2009": [
+      "CLE", 
+      "OAK", 
+      "KC", 
+      "WAS", 
+      "DET", 
+      "TB",
+      "SEA",
+      "STL"
+    ],
+    "2010": [
+      "BUF", 
+      "DEN", 
+      "CIN", 
+      "CLE", 
+      "CAR", 
+      "ARI"
+    ], 
+    "2012": [
+      "CLE", 
+      "JAC", 
+      "OAK", 
+      "KC", 
+      "PHI", 
+      "DET",
+      "ARI"
+    ]
+  }
+}
